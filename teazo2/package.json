@@ -1,6 +1,7 @@
 {
-  "name": "teazo",
-  "version": "1.1.4",
+  "name": "teazo2",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
